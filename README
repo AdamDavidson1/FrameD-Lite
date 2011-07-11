@@ -1,0 +1,13 @@
+README for FrameD Lite PHP Framework
+
+Just uncompress the framework and you should be ready to start programming. You will need to include the core file require_once for every action you create. Example, index.php is the action and the index.php will need to have the core items added.
+
+Just include this:
+
+/**
+ * FrameD Core
+ */
+require_once('core/core.php');
+
+
+For a full code example please review index.php.   
